@@ -1,0 +1,6 @@
+﻿  Stack.cpp
+E:\c语言\Stack类实现计算器\Stack类实现计算器\Stack.cpp(39,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  main.cpp
+E:\c语言\Stack类实现计算器\Stack类实现计算器\main.cpp(103,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Stack类实现计算器.vcxproj -> E:\c语言\Stack类实现计算器\x64\Debug\Stack类实现计算器.exe
