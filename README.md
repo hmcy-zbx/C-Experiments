@@ -1,14 +1,9 @@
 # C-Experiments
+##概况
 c++课的实验作业
-# zbx是op
-# zb是sb
-# dzh是消愁
-```cpp
-#include <iostream>
-using namespace std;
-int main()
-{
-  cout<<"dzh是消愁"<<endl;
-  return 0;
-}
-```
+这是湖北大学大一下学期C++实验
+##目录
+1. 运用stack类实现简单计算器
+2. 二维数组array类的设计并重载下标运算符、函数调用运算符
+3. 最派生类对象中虚基类表指针的应用
+4. 多态类对象的大小及虚函数表指针的模拟实现
